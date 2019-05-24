@@ -1,7 +1,7 @@
 {
     "beacons": [
         {
-        "id": 001,
+        "id": 1,
         "type": "text",
         "kind": "enter",
         "payload": "Hello World!",
