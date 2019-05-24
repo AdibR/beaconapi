@@ -1,0 +1,16 @@
+{
+    "beacons": [
+        {
+        "id": 001,
+        "type": "text",
+        "kind": "enter",
+        "payload": "Hello World!",
+        "active": true,
+        "name": "Estimote B9407F30",
+        "model": "estimote-beacon",
+        "major": 2000,
+        "minor": 1000,
+        "uuid": "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+        }
+    ]
+  }
